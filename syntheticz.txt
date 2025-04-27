@@ -186,15 +186,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Xero2409/XeroHub/refs
 loadstring(game:HttpGet"https://frostware.onrender.com/fwchest")()
   end
   })
-  
-  AddButton(Tab3o, {
-     Name = "Discord",
-    Callback = function()
-	  local Settings = {
-  JoinTeam = "Pirates"; -- Pirates/Marines
-  Translator = true; -- true/false
-}
-
-discord.gg/2eSnBJwx
-  end
-  })
